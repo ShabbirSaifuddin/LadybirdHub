@@ -1,0 +1,6 @@
+module Pods_LadyBird_LadyBirdTests {
+  umbrella header "Pods-LadyBird-LadyBirdTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
